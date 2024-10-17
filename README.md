@@ -9,12 +9,12 @@
 
 
 <code><img height="32" src="https://github.com/user-attachments/assets/4eb98636-9876-488c-b2aa-0de3c584798c" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/b28b4a22-f253-4611-9d3d-cfaef111daf0" alt="Python"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/28cb2c5f-2c81-43ce-93a1-65fcfc117682" alt="Nodejs"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/a87c7735-743b-47ba-bd23-29095de46efc" alt="Javascript"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/ead1f7cd-335d-45df-8e96-a9318d556ae1" alt="HTML5"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/0a6cd670-4370-4652-8e89-37f8ecabf39f" alt="CSS"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/cf53b6fa-a5f6-4571-b2e7-8fcbe1237d80" alt="React"/></code>
 <code><img height="32" src= "https://github.com/user-attachments/assets/3e4903c9-5269-46ee-a6e8-207ebec5b32a" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
 
