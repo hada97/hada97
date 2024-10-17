@@ -76,3 +76,5 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+![snake gif](https://github.com/hada97/hada97/blob/output/github-snake-dark.svg)
