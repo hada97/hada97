@@ -77,4 +77,4 @@
   />
 </p>
 
-![snake gif](https://github.com/hada97/hada97/blob/output/github-snake-dark.svg)
+
