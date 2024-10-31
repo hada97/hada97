@@ -3,7 +3,7 @@
 ### Adailson Guimarães 
 
 <p align="left"> 
-  Sou desenvolvedor back-end formando em Análise e Desenvolvimento de Sistemas, com um ano de experiência na empresa F1rst Digital Services). Possuo forte conhecimento em bancos de dados, APIs REST, boas práticas de desenvolvimento e deploy em nuvem<strong></strong>.<br>
+  Sou desenvolvedor back-end formando em Análise e Desenvolvimento de Sistemas, com um ano de experiência na empresa F1rst Digital Services). Possuo forte conhecimento em bancos de dados, APIs REST, boas práticas de desenvolvimento e deploy em nuvem Azure e AWS<strong></strong>.<br>
 </p>
 
 
