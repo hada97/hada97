@@ -18,6 +18,7 @@
 <code><img height="32" src= "https://github.com/user-attachments/assets/3e4903c9-5269-46ee-a6e8-207ebec5b32a" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
 <code><img height="32" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker"/></code>
+<code><img height="32" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS"/></code>
 
 
 ### ⚙️ GitHub Analytics
