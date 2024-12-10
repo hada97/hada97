@@ -3,7 +3,7 @@
 ### Adailson Guimarães 
 
 <p align="left"> 
-  Analista de Sistemas, com mais de um ano de experiência na empresa F1rst Digital Services. Possuo forte conhecimento Java e POO, bancos de dados SQL, NoSql, APIs REST, desenvolvimento com Python e Java Script, Docker, além de deploy em nuvem Azure e AWS. Sou certificado pela Aws, Cloud Practitioner! <strong></strong>.<br>
+  Analista de Sistemas, com mais de um ano de experiência na empresa F1rst Digital Services. Possuo forte conhecimento em Java e POO, bancos de dados SQL, NoSql, APIs REST, desenvolvimento com Python e Java Script, Docker, além de deploy em nuvem Azure e AWS. Sou certificado pela Aws, Cloud Practitioner! <strong></strong>.<br>
 </p>
 
 
